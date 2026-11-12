@@ -66,7 +66,7 @@ I enjoy transforming ideas into functional applications, intuitive interfaces, a
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=favas-p&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=favas-p&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&timezone=Asia%2FKolkata&starting_year=2024" />
 
 </div>
 
